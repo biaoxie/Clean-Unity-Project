@@ -8,7 +8,9 @@ Before Clean             |  After Clean
 
 # Instruction
 Simply placing `clean.py` under your UnityProject, it will remove all files except for `Assets`, `Library`, and `ProjectSettings`. 
-Inside `Library`, it will remove anything that does not have extension of `.asset`.
+Inside `Library`, it will remove anything that does not have extension of `.asset`. <\br>
+
+Any other tools provided by Unity Package Manager will need to Reinstall, for example: `Input System`, or `Universal RP`.
 
 # To Run
 1. Go to the directory
@@ -18,5 +20,5 @@ Inside `Library`, it will remove anything that does not have extension of `.asse
 # Disclaimer
 - USE AT YOUR OWN RISKS!
 - Author is not responsible for any files that accidentally deleted, please make sure that you understand the code before using it. 
-- Any other tools provided by Unity will need to reinstall, for example: `Input System`, or `Universal RP`.
+
 
