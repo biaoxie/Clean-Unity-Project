@@ -7,7 +7,7 @@ Before Clean             |  After Clean
 
 
 # Description
-This script will remove all files except for `Assets`, `Library`, and `ProjectSettings`. Also, inside `Library`, it will remove anything that does not have extension of `.asset`. 
+This script will remove all files except for `Assets`, `Library`,`Packages`, and `ProjectSettings`. Also, inside `Library`, it will remove anything that does not have extension of `.asset`. 
 
 Any other tools provided by Unity Package Manager will need to Reinstall, for example: `Input System` or `Universal RP`.
 
