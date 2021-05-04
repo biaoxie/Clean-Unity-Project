@@ -1,5 +1,6 @@
 # Clean-Unity-Project
-A python script that removed temps and caches of a Unity Project.
+A python script that removed temporary files and caches of a Unity Project.
+
 
 # Instruction
 Simply placing `clean.py` under your UnityProject, it will remove all files except for `Assets`, `Library`, and `ProjectSettings`. 
