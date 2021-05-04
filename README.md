@@ -12,6 +12,6 @@ Inside `Library`, it will remove anything that does not have extension of `.asse
 
 # Disclaimer
 - USE AT YOUR OWN RISKS!
-- Author is not responsible for any files that deleted by accident. 
+- Author is not responsible for any files that accidentally deleted, please make sure that you understand the code before using it. 
 - Any other tools provided by Unity will need to reinstall, for example: `Input System`, or `Universal RP`.
 
