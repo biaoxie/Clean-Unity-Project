@@ -12,5 +12,5 @@ Simply placing `clean.py` under your UnityProject, it will only keep `Assets`, `
 # Disclaimer
 - USE AT YOUR OWN RISKS!
 - Author is not responsible for any files that deleted by accident. 
-- Any other tools provided by Unity will need to reinstall, for example: `InputActions`, or `Universal RP`.
+- Any other tools provided by Unity will need to reinstall, for example: `Input System`, or `Universal RP`.
 
