@@ -7,4 +7,4 @@ Simply placing `clean.py` under your UnityProject, it will only keep `Assets`, `
 #To Run
 1. Go to the directory
 2. `python clean.py`
-3. 
+3. DONE!
