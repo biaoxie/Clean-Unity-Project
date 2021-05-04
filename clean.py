@@ -1,10 +1,8 @@
-
-
 import os
 import shutil
 
 cwd = os.getcwd()
-folders_to_keep = ["Assets", "Library", "ProjectSettings", "clean.py"]
+folders_to_keep = ["Assets", "Library", "ProjectSettings","Packages", "clean.py"]
 
 
 def validate_path():
