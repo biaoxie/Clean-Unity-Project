@@ -8,3 +8,9 @@ Simply placing `clean.py` under your UnityProject, it will only keep `Assets`, `
 1. Go to the directory
 2. `python clean.py`
 3. DONE!
+
+# Disclaimer
+- USE AT YOUR OWN RISKS!
+- Author is not responsible for any files that deleted by accident. 
+- Any other tools provided by Unity will need to reinstall, for example: `InputActions`.
+
